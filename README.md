@@ -22,7 +22,7 @@ Copy and paste to your local drive all the files contained in the "Matlab_codes"
 <li> Click on <i>Run</i></li>
 <li> On the GUI, click on the <i>Open/close</i> button</li>
 </ul>
-
+![image](https://github.com/MAILFERT-Sebastien/MATLAB_Thorlabs_Kinesis/blob/main/Images/GUI.png) 
 
 ## Versioning
 
