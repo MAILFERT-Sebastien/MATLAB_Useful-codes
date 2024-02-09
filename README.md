@@ -34,14 +34,19 @@ Copy and paste onto your local disk all the files contained in the specific fold
 
 <ul>
 <li> V1.0, Thorlabs_Kinesis_Solenoid</li>
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Thorlabs_Kinesis_Solenoid.mp4) 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Thorlabs_Kinesis_Solenoid.png)](https://youtu.be/3Ou0eR2DcCs)
-
-<li> V1.0, Thorlabs_Kinesis_Solenoid</li>
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED MOTOR CONTROLLER/Thorlabs_Kinesis_Motor.mp4) 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED MOTOR CONTROLLER/Thorlabs_Kinesis_Motor.png)](https://youtu.be/yIXE_s-mPlQ)
-
 </ul>
+
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Thorlabs_Kinesis_Solenoid.png)](https://youtu.be/3Ou0eR2DcCs?feature=shared)
+
+
+<ul>
+<li> V1.0, Thorlabs_Kinesis_Motor</li>
+</ul>
+
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED%20MOTOR%20CONTROLLER/Thorlabs_Kinesis_Motor.png)](https://youtu.be/yIXE_s-mPlQ)
+
+ 
+
 
 
 ## Authors
