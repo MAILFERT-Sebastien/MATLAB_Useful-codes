@@ -18,6 +18,9 @@
 <li> You need Matlab 2024a or a newer version</li>
 </ul>
 
+> [!TIP]
+> If you contact me, I can provide you with a version that is compatible with yours (older or newest).
+
 ## Installing
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
