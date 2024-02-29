@@ -18,19 +18,21 @@
 <li> You need Matlab 2024a or a newer version</li>
 </ul>
 
-> [!IMPORTANT]
+> [!TIP]
 > If you contact me, I can provide you with a version that is compatible with yours (older or newest).
 
+
 ## Installing
+
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
 > [!IMPORTANT]
 > You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
-
-or
-
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/FilePath.png) 
+> ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
+>
+> or
+> 
+> ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/FilePath.png) 
 
 
 
@@ -77,3 +79,4 @@ GNU GPLv3.0
 
 ## Acknowledgments
 Sébastien MAILFERT
+Thanks to Andriy Chmyrov (University of Oxford)
