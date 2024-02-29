@@ -27,10 +27,10 @@
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
 > [!IMPORTANT]
-> You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
+> You should first be sure that the current Thorlabs path is proprely set into the "shutter.m":
 > ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
 >
-> or
+>  or the "motor.m" file:
 > 
 > ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/FilePath.png) 
 
@@ -79,4 +79,5 @@ GNU GPLv3.0
 
 ## Acknowledgments
 Sébastien MAILFERT
+
 Thanks to Andriy Chmyrov (University of Oxford)
