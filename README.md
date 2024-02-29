@@ -26,8 +26,10 @@ Copy and paste onto your local disk all the files contained in the specific fold
 
 ## Running the tests
 
-You should first be sure that the current Thorlabs path is ok:
-KINESISPATHDEFAULT = 'C:\Program Files\Thorlabs\Kinesis\'
+You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
+![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
+or
+![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DCMOTOR%20CONTROLLER/Images/FilePath.png) 
 
 <ul>
 <li> In Matlab, click on the <i>APP</i> tab</li>
@@ -40,20 +42,24 @@ KINESISPATHDEFAULT = 'C:\Program Files\Thorlabs\Kinesis\'
 ## Versioning
 
 <ul>
-<li> V1.0, Thorlabs_Kinesis_Solenoid</li>
+<li> V1.0, Thorlabs_Kinesis_Solenoid (needs the shutter.m file!)</li>
 </ul>
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Thorlabs_Kinesis_Solenoid.png)](https://youtu.be/3Ou0eR2DcCs?feature=shared)
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/Thorlabs_Kinesis_Solenoid.png)](https://youtu.be/3Ou0eR2DcCs?feature=shared)
 
 
 <ul>
-<li> V1.0, Thorlabs_Kinesis_Motor</li>
+<li> V1.0, Thorlabs_Kinesis_Motor (needs the motor.m file!)</li>
 </ul>
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED%20MOTOR%20CONTROLLER/Thorlabs_Kinesis_Motor.png)](https://youtu.be/yIXE_s-mPlQ)
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED%20MOTOR%20CONTROLLER/Images/Thorlabs_Kinesis_Motor.png)](https://youtu.be/yIXE_s-mPlQ)
 
  
+<ul>
+<li> V1.0, Thorlabs_Kinesis_DCMotor (needs the motor.m file!)</li>
+</ul>
 
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DCMOTOR%20CONTROLLER/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/wut1uU-jnE0)
 
 
 ## Authors
