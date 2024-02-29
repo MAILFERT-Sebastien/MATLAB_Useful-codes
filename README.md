@@ -25,6 +25,10 @@
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
 ## Running the tests
+
+You should first be sure that the current Thorlabs path is ok:
+KINESISPATHDEFAULT = 'C:\Program Files\Thorlabs\Kinesis\'
+
 <ul>
 <li> In Matlab, click on the <i>APP</i> tab</li>
 <li> Click on the <i>Design App</i> button</li>
