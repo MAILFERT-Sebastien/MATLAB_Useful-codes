@@ -18,18 +18,23 @@
 <li> You need Matlab 2024a or a newer version</li>
 </ul>
 
-> [!TIP]
+> [!IMPORTANT]
 > If you contact me, I can provide you with a version that is compatible with yours (older or newest).
 
 ## Installing
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
+> [!TIP]
+> You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
+![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
+
+or
+
+![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/FilePath.png) 
 ## Running the tests
 
-You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
-or
-![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC MOTOR CONTROLLER/Images/FilePath.png) 
+
+
 
 <ul>
 <li> In Matlab, click on the <i>APP</i> tab</li>
@@ -59,7 +64,7 @@ or
 <li> V1.0, Thorlabs_Kinesis_DCMotor (needs the motor.m file!)</li>
 </ul>
 
-[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC MOTOR CONTROLLER/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/wut1uU-jnE0)
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/wut1uU-jnE0)
 
 
 ## Authors
