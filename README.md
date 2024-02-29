@@ -24,17 +24,17 @@
 ## Installing
 Copy and paste onto your local disk all the files contained in the specific folder corresponding to what you need.
 
-> [!TIP]
+> [!IMPORTANT]
 > You should first be sure that the current Thorlabs path is proprely set into the "shutter.m" or the "motor.m" file:
 ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/FilePath.png) 
 
 or
 
 ![image](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/FilePath.png) 
+
+
+
 ## Running the tests
-
-
-
 
 <ul>
 <li> In Matlab, click on the <i>APP</i> tab</li>
