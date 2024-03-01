@@ -49,24 +49,33 @@ Copy and paste onto your local disk all the files contained in the specific fold
 ## Versioning
 
 <ul>
-<li> V1.0, Thorlabs_Kinesis_Solenoid (needs the shutter.m file!)</li>
+<li> V1.0, Thorlabs_Kinesis_Solenoid_v1_0 (needs the shutter.m file!)</li>
 </ul>
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_SOLENOID/Images/Thorlabs_Kinesis_Solenoid.png)](https://youtu.be/3Ou0eR2DcCs?feature=shared)
 
 
 <ul>
-<li> V1.0, Thorlabs_Kinesis_Motor (needs the motor.m file!)</li>
+<li> V1.0, Thorlabs_Kinesis_Motor_v1_0 (needs the motor.m file!)</li>
 </ul>
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_BRUSHED%20MOTOR%20CONTROLLER/Images/Thorlabs_Kinesis_Motor.png)](https://youtu.be/yIXE_s-mPlQ)
 
  
 <ul>
-<li> V1.0, Thorlabs_Kinesis_DCMotor (needs the motor.m file!)</li>
+<li> V1.0, Thorlabs_Kinesis_DCMotor_v1_0 (needs the motor.m file!)</li>
 </ul>
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/wut1uU-jnE0)
+
+
+<ul>
+<li> V1.0, Thorlabs_Kinesis_DCMotor_MoveTable_v1_0 (needs the motor.m, Load_Calibration_Table.m & inti_motors.m files)</li>
+</ul>
+
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER_FOLLOW_CALIBRATION/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/B1Ubr-RcFhU)
+
+
 
 
 ## Authors
