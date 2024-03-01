@@ -6,8 +6,10 @@
 <ul>
 <li> Device control</li>
 <ul>
-<li> THORLABS_KINESIS_SOLENOID: control a Thorlabs Shutter SH05 with a KSC001 K-Cube controller (Copyright (c) Andriy Chmyrov and University of Oxford (see licence.txt))</li>
-<li> THORLABS_KINESIS_BRUSHED MOTOR CONTROLLER: control a Thorlabs PRM1/MZ8 rotation motor with a KSC001 K-Cube controller (Copyright (c) Andriy Chmyrov and University of Oxford (see licence.txt))</li>
+<li> THORLABS_KINESIS_SOLENOID: control a Thorlabs Shutter SH05 with a KSC001 K-Cube controller</li>
+<li> THORLABS_KINESIS_BRUSHED MOTOR CONTROLLER: control a Thorlabs PRM1/MZ8 rotation motor with a KSC001 K-Cube controller</li>
+<li> THORLABS_KINESIS_BRUSHED DC MOTOR CONTROLLER: control two Thorlabs MTS25/M-Z8 motors with a KDC001 K-Cube controller</li>
+<li> THORLABS_KINESIS_BRUSHED DC MOTOR CONTROLLER_FOLLOW_CALIBRATION: moce two Thorlabs MTS25/M-Z8 motors with a KDC001 K-Cube controller according to a calibration table</li>
 </ul>
 </ul>
 
@@ -70,7 +72,7 @@ Copy and paste onto your local disk all the files contained in the specific fold
 
 
 <ul>
-<li> V1.0, Thorlabs_Kinesis_DCMotor_MoveTable_v1_0 (needs the motor.m, Load_Calibration_Table.m & inti_motors.m files)</li>
+<li> V1.0, Thorlabs_Kinesis_DCMotor_MoveTable_v1_0 (needs the motor.m, Load_Calibration_Table.m & init_motors.m files)</li>
 </ul>
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER_FOLLOW_CALIBRATION/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/B1Ubr-RcFhU)
