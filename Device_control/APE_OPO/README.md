@@ -12,11 +12,11 @@
 
 
 ## Aim
-These programs  are designed to control with Matlab an APE OPO (Optical Parametric Oscillator) via TCP/IP communication protocol.
+These programs are designed to control an APE OPO (Optical Parametric Oscillator) via TCP/IP communication protocol.
 
 
 ## Prerequisites
-These programs were ested under Matlab 2024a.
+These programs were tested on Matlab 2024a.
 
 ## Installing
 Copy and paste onto your local disk all the files contained in the Matlab_codes folder.
