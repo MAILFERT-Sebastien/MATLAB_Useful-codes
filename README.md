@@ -77,6 +77,11 @@ Copy and paste onto your local disk all the files contained in the specific fold
 
 [![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/THORLABS_KINESIS_DC%20MOTOR%20CONTROLLER_FOLLOW_CALIBRATION/Images/Thorlabs_Kinesis_DCMotor.png)](https://youtu.be/B1Ubr-RcFhU)
 
+<ul>
+<li> V1.0, Thorlabs_SC10_Serial.vi</li>
+</ul>
+
+[![Watch the video](https://github.com/MAILFERT-Sebastien/MATLAB_Useful-codes/blob/main/Device_control/YOKOGAWA_CSU-X1/Images/YOKOGAWA_CSUX1.png)](https://www.youtube.com/watch?v=SvDwvMWrSM4)
 
 
 
